@@ -1,3 +1,4 @@
 # HookingFunction
 
-Hooking Function for Game Hacking
+External Hooking Function for Game Hacking
+
